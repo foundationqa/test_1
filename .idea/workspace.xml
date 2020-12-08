@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5005b51-c330-4f0b-b4ff-86ef99a5893b" name="Default Changelist" comment="test 3" />
+    <list default="true" id="e5005b51-c330-4f0b-b4ff-86ef99a5893b" name="Default Changelist" comment="test 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,13 +11,13 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="test_branch_1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubProjectSettings">
-    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="test_branch_1" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="test_2" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="foundationqa" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="test_1" />
   </component>
@@ -38,6 +38,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test 2" />
     <MESSAGE value="test 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="test 3" />
+    <MESSAGE value="test 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 5" />
   </component>
 </project>
